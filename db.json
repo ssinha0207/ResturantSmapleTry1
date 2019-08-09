@@ -351,44 +351,6 @@
 "StufeLevel": "1",
 "Vegan": "0"
 }
-],
-"LAMM":[
-{
-"ItemNo": "71",
-"ItemName": "Lamm Saag",
-"Additive": "g",
-"Description": "Lamm mit Spinat nach indischer Art mit frischem Ingwer, Tomaten und Knoblauch.",
-"Price": "17,5",
-"StufeLevel": "1",
-"Vegan": "0"
-},
-{
-"ItemNo": "72",
-"ItemName": "Lamm Korma",
-"Additive": "g,b",
-"Description": "Lamm in reichhaltiger Soße aus Gewürzen, Kokosmilch und Cashewnüssen.",
-"Price": "20,5",
-"StufeLevel": "1",
-"Vegan": "0"
-},
-{
-"ItemNo": "73",
-"ItemName": "Lamm Vindaloo",
-"Additive": "g",
-"Description": "Südindische Lammspezialität mit Kartoffeln und exotisch-würziger Sauce.",
-"Price": "18,9",
-"StufeLevel": "1",
-"Vegan": "0"
-},
-{
-"ItemNo": "74",
-"ItemName": "Lamm Bhindi",
-"Additive": "g",
-"Description": "Lamm und Okra in Currysauce mit Ingwer, Knoblauch und Gewürzen.",
-"Price": "17,9",
-"StufeLevel": "1",
-"Vegan": "0"
-}
 ]
 }	
 }		
